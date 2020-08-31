@@ -17,7 +17,7 @@ This project meets all the specifications, which are:
 - [x] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected, human face.
 
 ### Step 2: Detect Dogs
-- [x] Use a pre-trained VGG16 Net to find the predicted class for a given image. Use this to complete a dog_detector function below that returns True if a dog is detected in an image (and False if not).
+- [x] Use a pre-trained VGG16 Net to find the predicted class for a given image. Use this to complete a `dog_detector` function below that returns True if a dog is detected in an image (and False if not).
 - [x] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected dog.
 
 ### Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
