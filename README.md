@@ -6,7 +6,7 @@ This repository contains all my answered projects of [Udacity Deep Learning Nano
 
 1. Introduction to Deep Learning
 - Development tools: Anaconda and Jupyter Notebook
-- No Project
+- No Project Available
 
 2. Neural Networks (NN)
 - Basic of NN with Python and Numpy
@@ -38,4 +38,4 @@ This repository contains all my answered projects of [Udacity Deep Learning Nano
 - Machine Learning Workflow
 - Amazon SageMaker
 - AWS Lambda and API Gateway
-- [ ] **Project: Deploying a Sentiment Analysis Model**
+- [x] **Project: Deploying a Sentiment Analysis Model (`sagemaker-deployment`)**
